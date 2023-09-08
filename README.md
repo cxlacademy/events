@@ -1,2 +1,3 @@
-# events
-Materials for Events, Conferences, Webinars, etc
+# CXL Academty Events
+
+This repository contains materials for Events, Conferences, and Webinars.
